@@ -1,1 +1,3 @@
-# MEAN-photo-gallery
+  # MEAN Photo Gallery
+
+  
