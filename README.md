@@ -13,7 +13,7 @@ npm install
 mongod
 npm start
 
-##frontend:
+-frontend:
 
 cd angular-gallery
 npm install
