@@ -1,5 +1,7 @@
 # MEAN Photo Gallery
 
+Image App made with Angular, Nodejs, Mongodb, Express & Typescript (Stack MEAN).
+
 ![](./localhost_4200_photos.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
