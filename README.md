@@ -1,6 +1,6 @@
 # MEAN Photo Gallery
 
-Image App made with Angular, Nodejs, Mongodb, Express & Typescript (Stack MEAN).
+Image App made with Angular, Nodejs, Mongodb, Express & Typescript (MEAN Stack).
 
 ![](./localhost_4200_photos.png)
 
