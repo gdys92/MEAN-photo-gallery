@@ -21,7 +21,7 @@
             "aot": false,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/asset"
             ],
             "styles": [
               "node_modules/bootswatch/dist/minty/bootstrap.min.css",
